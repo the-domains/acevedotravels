@@ -4,14 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.6291329
 color:
-  saturation: 0.8186562
+  saturation: 0.7556391
   brandStrength: 0.9676882
   lightness: 0.5708916
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  rhythmicContrast: 0.6364124
-typography_spectrum: 0.6291329
+  rhythmicContrast: 0.09613316
 layout_spectrum: 0.420664
 name: AcevedoTravels
