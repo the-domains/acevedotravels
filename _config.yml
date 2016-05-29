@@ -10,10 +10,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.6291329
 color:
   saturation: 0.5214823
   brandStrength: 0.9676882
-  lightness: 0.5085929
+  lightness: 0
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
@@ -21,6 +22,5 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   rhythmicContrast: 0.01557462
-typography_spectrum: 0.6291329
 layout_spectrum: 0.4140709
 name: AcevedoTravels
