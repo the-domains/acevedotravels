@@ -1,20 +1,25 @@
 ---
-author: []
-dateModified: '2016-06-07T20:26:57.256Z'
-title: Welcome to Kotor!
-description: The Clock tower in the main square (above) and part of the city wall (below).
-sourcePath: _posts/2016-06-01-welcome-to-kotor.md
-datePublished: '2016-06-07T20:28:08.953Z'
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: The clock tower in the main square (above) and part of the city wall (below).
+datePublished: '2016-06-13T11:09:13.750Z'
+dateModified: '2016-06-13T11:05:42.566Z'
+author: []
+title: Welcome to Kotor!
+sourcePath: _posts/2016-06-01-welcome-to-kotor.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/989ada04-961b-4fb9-8196-c72621333fb3.jpg)
 
-The Clock tower in the main square (above) and part of the city wall (below).
+The clock tower in the main square (above) and part of the city wall (below).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c82f93f-f5e9-404e-8457-04848c9f1eb0.jpg)
 
 The city wall. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4e7f4b7-526d-4981-a260-4ef37cc55c0c.jpg)
