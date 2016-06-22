@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6291329
 color:
   saturation: 0.5214823
   brandStrength: 0.9676882
@@ -22,5 +21,6 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   lightness: 0
-layout_spectrum: 0.3362873
+typography_spectrum: 0.6291329
+layout_spectrum: 0.6693097
 name: AcevedoTravels
