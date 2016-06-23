@@ -1,20 +1,22 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: The clock tower in the main square (above) and part of the city wall (below).
-datePublished: '2016-06-23T02:15:24.540Z'
-dateModified: '2016-06-23T02:15:08.863Z'
-author: []
+datePublished: '2016-06-23T02:34:57.912Z'
+dateModified: '2016-06-23T02:34:55.879Z'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-01-welcome-to-kotor.md
 title: Welcome to Kotor!
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: welcome-to-kotor/index.html
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/989ada04-961b-4fb9-8196-c72621333fb3.jpg)
