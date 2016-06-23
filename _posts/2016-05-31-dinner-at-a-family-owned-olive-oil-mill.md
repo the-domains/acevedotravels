@@ -1,15 +1,22 @@
 ---
-title: Dinner at a family owned olive oil mill
-datePublished: '2016-06-01T04:21:03.959Z'
-dateModified: '2016-06-01T04:20:45.083Z'
-author: []
-sourcePath: _posts/2016-05-31-dinner-at-a-family-owned-olive-oil-mill.md
-description: Above is the horse and mill used to smash the olives.
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: Above is the horse and mill used to smash the olives.
+datePublished: '2016-06-23T02:27:44.460Z'
+dateModified: '2016-06-23T02:26:49.957Z'
+title: Dinner at a family owned olive oil mill
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-31-dinner-at-a-family-owned-olive-oil-mill.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01b21f66-24f4-4ac2-bbbe-5406492fc579.jpg)
