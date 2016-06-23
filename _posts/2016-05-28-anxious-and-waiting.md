@@ -8,8 +8,8 @@ keywords: []
 description: >-
   I thought about uploading an image of myself but decided you didn’t need to
   see how nervous I am.
-datePublished: '2016-06-23T02:44:17.635Z'
-dateModified: '2016-06-23T02:44:11.799Z'
+datePublished: '2016-06-23T10:40:26.784Z'
+dateModified: '2016-06-23T10:40:06.106Z'
 title: Anxious and Waiting
 author:
   - name: ''
