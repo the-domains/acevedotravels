@@ -1,3 +1,7 @@
+name: AcevedoTravels
+favicon: null
+layout_spectrum: 0.6693097
+typography_spectrum: 0.6291329
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5214823
-  brandStrength: 0.9676882
-  rhythmicContrast: 0.01557462
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#2e4d11'
+    - '#6a9836'
+    - '#c4c5c7'
+    - '#0b0f07'
+  brandStrength: 0.9676882
   lightness: 0
-typography_spectrum: 0.6291329
-layout_spectrum: 0.6693097
-name: AcevedoTravels
+  saturation: 0.5214823
+  rhythmicContrast: 0.01557462
+purpose: []
