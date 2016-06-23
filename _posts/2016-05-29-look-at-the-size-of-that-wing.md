@@ -1,15 +1,22 @@
 ---
-dateModified: '2016-05-29T12:57:00.163Z'
-author: []
-title: 'Look at the size of that wing!!!'
-description: ''
-sourcePath: _posts/2016-05-29-look-at-the-size-of-that-wing.md
-datePublished: '2016-05-29T12:57:39.061Z'
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-23T10:44:11.138Z'
+dateModified: '2016-06-23T10:42:01.826Z'
+author:
+  - name: ''
+    url: ''
+title: Look at the size of that wing!!!
+sourcePath: _posts/2016-05-29-look-at-the-size-of-that-wing.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 # Look at the size of that wing!!!
