@@ -1,22 +1,36 @@
 ---
-author: []
-title: 'Walking into the city. '
-description: 'Zoran and Peter. Zoran was our local guide for today, while Peter is our guide for the entire trip.'
-dateModified: '2016-05-31T03:46:39.897Z'
-datePublished: '2016-05-31T03:46:53.078Z'
-sourcePath: _posts/2016-05-30-walking-into-the-city.md
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: >-
+  Zoran and Peter. Zoran was our local guide for today, while Peter is our guide
+  for the entire trip.
+datePublished: '2016-07-22T22:59:08.218Z'
+dateModified: '2016-07-22T22:58:29.921Z'
+author:
+  - name: ''
+    url: ''
+title: 'Walking into the city. '
+sourcePath: _posts/2016-05-30-walking-into-the-city.md
+via: {}
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9c1ec3-e61f-423d-8bf0-56b23ef620a9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2323d8-b9ff-4826-88be-ca805bc475e9.jpg)
 
 Zoran and Peter. Zoran was our local guide for today, while Peter is our guide for the entire trip.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/700007da-6744-47a2-a622-cdb28105f4b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c01ef8dce44376f4e0edfed9fc9a04f209b910f.jpg)
 
 Proof that we are actually on vacation TOGETHER, since most shots only have one of us at a time! Thankfully Peter knew how to operate a "real" camera.
 
